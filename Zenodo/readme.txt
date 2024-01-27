@@ -1,4 +1,4 @@
-This folder contains data related to the extrapolation of the neural network on quantum circuits with 25 or more qubits.
+This folder contains data related to the extrapolation of the neural network on quantum circuits with 30 or more qubits.
 Both the angles of the quantum circuits and the predictions of the neural network are included.
 
 The loader.py file is used to load these data.
